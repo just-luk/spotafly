@@ -23,7 +23,7 @@ export const HomeScreen: FC<
 				space="$4"
 				maxWidth={600}
 			>
-				<H1 textAlign="center" paddingTop="$8">Spotafly</H1>
+				<H1 textAlign="center" paddingTop="$8" borderWidth="$-1">Spotafly</H1>
 				<Paragraph textAlign="center">
 					Here's a basic starter to show navigating from one screen to another.
 				</Paragraph>
