@@ -1,7 +1,7 @@
 import "expo-dev-client";
 
 import { useFonts } from "expo-font";
-import { FC } from "react";
+import React, { FC } from "react";
 import { Keyboard, KeyboardAvoidingView } from "react-native";
 
 import { NativeNavigation } from "./navigation";
