@@ -13,6 +13,7 @@
     "upgrade:tamagui": "manypkg upgrade tamagui && manypkg upgrade @tamagui && manypkg upgrade tamagui-loader"
   },
   "dependencies": {
+    "@expo/ngrok": "^4.1.0",
     "@react-navigation/native": "6.1.1",
     "@react-navigation/native-stack": "6.9.7",
     "@tamagui/animations-reanimated": "1.7.0",
